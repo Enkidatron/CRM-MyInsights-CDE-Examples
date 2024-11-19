@@ -15,7 +15,7 @@
 							"kind": "field",
 							"name": "suggestionList",
 							"type": {
-								"text": "Array<{id: string, title: string, priority: string, expirationDate: string, postedDate: string, reason: string, dismissed: number, actioned: number, markedAsComplete: number}>"
+								"text": "Array<{id: string, title: string, priority: string, expirationDate: StudioDate, postedDate: StudioDate, reason: string, dismissed: number, actioned: number, markedAsComplete: number}>"
 							}
 						}
 					],
